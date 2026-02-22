@@ -24,4 +24,4 @@ La aplicación web proporciona las siguientes características:
 
 ## Enlace a la Aplicación
 
-[Ver aplicación en vivo](https://tu-app-name.onrender.com)
+[Ver aplicación en vivo](https://sprint7-project-epum.onrender.com)

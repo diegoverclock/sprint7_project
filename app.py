@@ -8,8 +8,6 @@ st.header('Dashboard de Análisis de Vehículos')
 # Leer los datos (ruta relativa al mismo directorio que `app.py`)
 car_data = pd.read_csv('vehicles_us.csv')
 
-# Encabezado
-st.header('Dashboard de Análisis de Vehículos')
 
 # CASILLA 1: Histograma
 build_histogram = st.checkbox('Construir un histograma')
